@@ -54,7 +54,7 @@ A simple and user-friendly **web application** that converts **Telugu speech to 
 ## How to Use
 
 1. Open the [Live Demo]([https://your-vercel-app-url.vercel.app](https://telugu-stt.vercel.app/)) in **Google Chrome**.
-2. Click the **Prarambinchandi(Start)** button.
+2. Click the **ప్రారంబించండి(Start)** button.
 3. Speak in **Telugu**.
 4. Watch your speech convert into text.
 5. Use the **Copy** button to copy the result.
